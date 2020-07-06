@@ -63,9 +63,9 @@ The data came from HC Corpora with three files (Blogs, News and Twitter). The da
 
 [Kat'z back-off model:](https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf)
 
-[Shiny App:](https://enrique1790.shinyapps.io/predictive-word-app/)
+[Shiny App:](https://manojakalanka.shinyapps.io/predictive-word-app/)
 
-[Slide Deck:](http://rpubs.com/enrique1790/444641)
+[Slide Deck:](http://rpubs.com/manojakalanka/636054)
 
 
 
